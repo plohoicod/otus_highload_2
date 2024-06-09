@@ -14,3 +14,5 @@ JMetr план для запуска теста  - `Test Plan.jmx`
 ```
 \copy otus.users (login, password, name, surname, birthday, gender, interests, city) from '/Users/ydpolivt/IdeaProjects/otus_highload_2/users.csv' delimiter ',' csv header;
 ```
+
+PDF отчет  - `Otus2.pdf`
